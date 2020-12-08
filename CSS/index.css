@@ -1,0 +1,25 @@
+header {
+    text-align: center;
+    background: url('https://i.pinimg.com/originals/3d/b3/f2/3db3f2caa71b800b596ab6406d8a049e.png');
+    background-size: cover;
+    color: white;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+h1 {
+    font-size: 70px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul {
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.5);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+}
+li {
+    display: inline;
+    padding: 0px, 10px, 0px, 10px;
+}
